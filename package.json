@@ -1,0 +1,35 @@
+{
+	"name": "node-logging",
+	"version": "1.0.0",
+  "description": "🐍Python logging style for Node.js",
+  "author": {
+    "name": "Michael.K",
+    "email": "michael34435@capslock.tw"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "logging",
+    "node",
+    "python"
+  ],
+  "homepage": "https://github.com/michael34435/node-logging",
+  "bugs": {
+    "url": "https://github.com/michael34435/node-logging/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michael34435/node-logging.git"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.20",
+    "loglevel": "^1.6.7",
+    "loglevel-plugin-prefix": "^0.8.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-import-resolver-node": "^0.3.3",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
