@@ -1,5 +1,5 @@
 {
-	"name": "node-logging",
+	"name": "node-pylogging",
 	"version": "1.0.0",
   "description": "🐍Python logging style for Node.js",
   "author": {
